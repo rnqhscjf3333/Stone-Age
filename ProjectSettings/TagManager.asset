@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - sisterquest
+  - sister
+  - HandSlot
+  - mom
+  - momquest
+  - Stone
+  - Plant
+  - Tree
+  - CinemachineTarget
+  - Rock
+  - Branch
+  - RockCluster
+  - Fruit
+  - npcCamera
+  - dad
+  - dadquest
+  - grandfather
+  - grandfatherquest
+  - BuildItem
+  - HandAxe
+  - StoneAxe
+  - Spear
+  - Arrow
+  - HandAxeItems
+  - StoneAxeItems
+  - SpearItems
+  - ArrowItems
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Minimap
+  - Level
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Ignore
+  - 
+  - Item
+  - Animal
+  - Player
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
