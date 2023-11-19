@@ -59,7 +59,7 @@
 - 탐지 성공시 초식동물이면 도망, 육식동물이면 추적 후 공격
 
 ### 보스(곰)
-![image](https://github.com/rnqhscjf3333/Stone-Age/assets/41632370/cc1ea1f2-e7d3-439f-b097-697cb4ec96c9)
+![image](https://github.com/rnqhscjf3333/Stone-Age/assets/41632370/31fbf1ca-33cc-4c88-b4b0-97cdc27e63d3)
 ### [곰 보스전 영상](https://youtu.be/mqou62arm2g)
 - 성인식을 완료하기 위한 최종 관문
 1. 플레이어에게 돌진 후 2번 공격
